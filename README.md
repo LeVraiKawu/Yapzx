@@ -19,4 +19,4 @@ GUILD_ID = "The target guild id here"
 - Turn on the Developer mode in Discord [How to copy Guild ID](https://support.discord.com/hc/en-us/articles/206346498)
 
 # ❓ Any issues or Requests ?
-Go ahead, pull an request if you have any or if there's any issue,
+Go for it! Any issues or any requests, I take! Always keep in mind that you HAVE to write all correctly so I can understand your request/issue. Thanks for da feedback <3
