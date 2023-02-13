@@ -13,6 +13,9 @@ BOT_ID = "Your Bot id here"
 GUILD_ID = "The target guild id here"
 ```
 
+# 📷 Image
+<img src="https://raw.githubusercontent.com/LeVraiKawu/Yapzx/main/src/img.png">
+
 # 📦 Requirements
 - **Read the "READ BEFORE USE" section** before making any moves
 - The latest nodejs version not the oldschool one [NodeJS](https://nodejs.org/en/download/)
