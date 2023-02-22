@@ -19,6 +19,7 @@ GUILD_ID = "The target guild id here"
 # 📦 Requirements
 - **Read the "READ BEFORE USE" section** before making any moves
 - The latest nodejs version not the oldschool one [NodeJS](https://nodejs.org/en/download/)
+- Create a Discord Bot [How to create a Discord Bot Tutorial Full Explained](https://www.writebots.com/discord-bot-token/)
 - Turn on the Developer mode in Discord [How to copy Guild ID](https://support.discord.com/hc/en-us/articles/206346498)
 
 # ❓ Any issues or Requests ?
